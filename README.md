@@ -448,3 +448,9 @@ Created as a demonstration of full-stack Laravel development with modern fronten
 ---
 
 **Questions or issues?** Check the browser console and Network tab for detailed error messages.
+
+## 🎥 Demo Video
+
+![Demo](https://img.icons8.com/?size=200&id=59813&format=png)
+
+[Watch Full Demo Video](videos/demo.mp4)
